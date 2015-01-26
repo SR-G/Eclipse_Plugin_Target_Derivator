@@ -31,6 +31,7 @@ public class TargetDerivatorAction implements IWorkbenchWindowActionDelegate {
             "tmp",
             "temp",
             "bin",
+            "build",
             "bin-test",
             "test-output",
             "precompiled");
